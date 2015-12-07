@@ -16,6 +16,9 @@
   "license": "Apache-2.0",
   "dependencies": {},
   "targetDependencies": {
+    "stm32f0": {
+      "mbed-hal-st-stm32f0": "*"
+    },
     "stm32f4": {
       "mbed-hal-st-stm32f4": "^1.0.0"
     }
